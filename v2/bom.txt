@@ -1,0 +1,7 @@
+## Lager
+Menge	Bezeichnung	Verwendung
+8	688		XY-Wellenlager/ 2 pro ecke
+
+## Schrauben
+Menge	Norm	Gewinde	Länge	Verwendung
+12	912	M4	8	Verschraubung der Ecken (ohne Antriebsecke)
