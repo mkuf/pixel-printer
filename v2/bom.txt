@@ -5,3 +5,12 @@ Menge	Bezeichnung	Verwendung
 ## Schrauben
 Menge	Norm	Gewinde	Länge	Verwendung
 12	912	M4	8	Verschraubung der Ecken (ohne Antriebsecke)
+
+## Präzisionswellen
+Menge	Durchmesser	Länge	Verwendung
+4	8		250	Äußere Rods
+
+## Pulleys
+Menge	Zähne	Bohrung	Verwendung
+8	20	8mm	Äußere Rods
+2	20	5mm	X/Y-Motor
