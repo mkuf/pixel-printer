@@ -4,7 +4,8 @@ Menge	Bezeichnung	Verwendung
 
 ## Schrauben
 Menge	Norm	Gewinde	Länge	Verwendung
-12	912	M4	8	Verschraubung der Ecken (ohne Antriebsecke)
+17	912	M4	8	Ecken
+3	912	M3	8	x-motor
 
 ## Präzisionswellen
 Menge	Durchmesser	Länge	Verwendung
