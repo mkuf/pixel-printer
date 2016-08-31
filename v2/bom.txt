@@ -1,6 +1,7 @@
 ## Lager
 Menge	Bezeichnung	Verwendung
 8	688		XY-Wellenlager/ 2 pro ecke
+4	F623		GT2 Umlenkrolle X/Y-Motor
 
 ## Schrauben
 Menge	Norm	Gewinde	Länge	Verwendung
