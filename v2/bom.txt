@@ -7,6 +7,7 @@ Menge	Bezeichnung	Verwendung
 Menge	Norm	Gewinde	Länge	Verwendung
 17	912	M4	8	Ecken
 3	912	M3	8	x-motor
+1	7221	M4	8	xy-ecke
 
 ## Präzisionswellen
 Menge	Durchmesser	Länge	Verwendung
