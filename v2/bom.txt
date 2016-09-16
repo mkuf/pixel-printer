@@ -5,9 +5,10 @@ Menge	Bezeichnung	Verwendung
 
 ## Schrauben
 Menge	Norm	Gewinde	Länge	Verwendung
-17	912	M4	8	Ecken
-3	912	M3	8	x-motor
+20	912	M4	8	Ecken;y-motormount
+6	912	M3	8	x-motor;y-motor
 1	7221	M4	8	xy-ecke
+2	912	M3	??	Befestigung F623 Lager
 
 ## Präzisionswellen
 Menge	Durchmesser	Länge	Verwendung
