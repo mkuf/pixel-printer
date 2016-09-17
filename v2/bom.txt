@@ -9,6 +9,9 @@ Menge	Norm	Gewinde	Länge	Verwendung
 6	912	M3	8	x-motor;y-motor
 1	7221	M4	8	xy-ecke
 2	912	M3	??	Befestigung F623 Lager
+4	912	M4	16	z-rodhalter
+4	Mutter	M4		z-rodhalter
+4	912	M4	10	z-rodhalter
 
 ## Präzisionswellen
 Menge	Durchmesser	Länge	Verwendung
