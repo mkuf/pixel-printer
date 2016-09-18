@@ -22,3 +22,7 @@ Menge	Durchmesser	Länge	Verwendung
 Menge	Zähne	Bohrung	Verwendung
 8	20	8mm	Äußere Rods
 2	20	5mm	X/Y-Motor
+
+## Stepper
+3	Nema17		X-,Y-,Extrudermotor
+1	Nema17xTr8	Z-Motor/Spindel; https://de.aliexpress.com/item/3D-printer-linear-stepper-motor-NEMA17-42mm-stepper-motor-42mm-42mm-34mm-Tr8-pitch2mm-with-CE/32310661236.html?isOrigTitle=true
