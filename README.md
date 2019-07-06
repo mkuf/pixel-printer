@@ -9,5 +9,5 @@ know and I might be able to give you more insights.
 
 ![Pixel-Printer](pixel-printer.png)
 
-Licenced under Creative Commons BY-NC-SA. 
+Licensed under Creative Commons BY-NC-SA. 
 <br><img alt="CC BY-NC-SA" width=150px src=https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png >
