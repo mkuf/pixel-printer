@@ -1,0 +1,28 @@
+## Lager
+Menge	Bezeichnung	Verwendung
+8	688		XY-Wellenlager/ 2 pro ecke
+4	F623		GT2 Umlenkrolle X/Y-Motor
+
+## Schrauben
+Menge	Norm	Gewinde	Länge	Verwendung
+24	912	M4	8	Ecken;y-motormount;z-motormount
+6	912	M3	8	x-motor;y-motor
+1	7221	M4	8	xy-ecke
+2	912	M3	??	Befestigung F623 Lager
+4	912	M4	16	z-rodhalter
+4	Mutter	M4		z-rodhalter
+4	912	M4	10	z-rodhalter
+4	7221	M3	8	z-motor
+
+## Präzisionswellen
+Menge	Durchmesser	Länge	Verwendung
+4	8		250	Äußere Rods
+
+## Pulleys
+Menge	Zähne	Bohrung	Verwendung
+8	20	8mm	Äußere Rods
+2	20	5mm	X/Y-Motor
+
+## Stepper
+3	Nema17		X-,Y-,Extrudermotor
+1	Nema17xTr8	Z-Motor/Spindel; https://de.aliexpress.com/item/3D-printer-linear-stepper-motor-NEMA17-42mm-stepper-motor-42mm-42mm-34mm-Tr8-pitch2mm-with-CE/32310661236.html?isOrigTitle=true
