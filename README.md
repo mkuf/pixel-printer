@@ -7,7 +7,7 @@ That means, that this printer has never been built and I can't guarantee that al
 Nevertheless, if you are daring enough to try and build it, let me 
 know and I might be able to give you more insights. 
 
-![Pixel-Printer](pixel-printer.bmp | width=500)
+![Pixel-Printer](pixel-printer.png)
 
 Licenced under Creative Commons BY-NC-SA. 
-<img alt="CC BY-NC-SA" width=150px src=https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png >
+<br><img alt="CC BY-NC-SA" width=150px src=https://mirrors.creativecommons.org/presskit/buttons/88x31/png/by-nc-sa.png >
